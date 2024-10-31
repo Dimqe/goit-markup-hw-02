@@ -130,7 +130,7 @@ a {
   color: #434455;
 }
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .team-title {
   font-weight: 700;
@@ -171,4 +171,7 @@ a {
 
 .main-section {
   background-color: #2e2f42;
+}
+.team-list {
+  background-color: #ffffff;
 }
