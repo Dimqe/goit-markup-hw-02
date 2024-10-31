@@ -98,7 +98,7 @@ a {
 .Main-header {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
@@ -155,4 +155,15 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+
+.services {
+  color: #2e2f42;
+}
+.heading-title {
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
 }
