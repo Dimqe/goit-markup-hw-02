@@ -95,7 +95,7 @@ a {
   background-color: #2e2f42;
 }
 
-.Main-header {
+.main-header {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -135,10 +135,11 @@ a {
 .team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-name {
@@ -166,4 +167,11 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+}
+
+.team-list {
+  background-color: #ffffff;
+}
+.main-section {
+  background-color: #2e2f42;
 }
